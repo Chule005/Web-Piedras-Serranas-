@@ -1617,6 +1617,17 @@ p.form-message.error {
                text-align:center;
                z-index:999;
                         }
+    .mercadopago-button {
+padding: 0 1.7142857142857142em;
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-size: 0.875em;
+line-height: 2.7142857142857144;
+background: #229954;
+border-radius: 0.2857142857142857em;
+color: #fff;
+cursor: pointer;
+border: 0;
+}
 
 
 /*# sourceMappingURL=style.css.map */
